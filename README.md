@@ -17,9 +17,9 @@
   
 * [Lección 2](Leccion2)
  
-* Lección 3
+* [Lección 3](Leccion3)
   
-* Lección 4
+* [Lección 4](Leccion4)
  
 * Lección 5
 
