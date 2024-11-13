@@ -21,7 +21,7 @@
   
 * [Lección 4](Leccion4)
  
-* Lección 5
+* [Lección 5](Leccion5)
 
 ## Planificación
 
