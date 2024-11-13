@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="image.png" alt="Logo" width=1200 height=300>
+    <img src="images.png" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
