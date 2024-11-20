@@ -23,6 +23,8 @@
  
 * [Lección 5](Leccion5)
 
+* [Challenge](Challenge)
+
 ## Planificación
 
 ## Autores
